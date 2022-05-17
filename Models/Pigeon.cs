@@ -23,9 +23,6 @@ namespace Introduction_oop_concepts.Models
             Console.WriteLine("Delicious pizza!");
         }
 
-        public override void speak()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
