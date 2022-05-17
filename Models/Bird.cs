@@ -13,7 +13,7 @@ namespace Introduction_oop_concepts.Models
             Color = color;
         }
 
-        public abstract void speak();
+        public abstract void Speak();
 
         public virtual void Fly()
         {
