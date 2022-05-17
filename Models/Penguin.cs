@@ -22,9 +22,6 @@ namespace Introduction_oop_concepts.Models
             Console.WriteLine($"Whoops, I can't fly. Waddle waddle.");
         }
 
-        public override void speak()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
