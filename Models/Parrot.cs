@@ -20,9 +20,6 @@ namespace Introduction_oop_concepts.Models
             Console.WriteLine($"{Name} says hello to all Vijay classmates & coaches :) ");
         }
 
-        public override void speak()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 } 
